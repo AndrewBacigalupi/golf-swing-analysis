@@ -1,0 +1,17 @@
+
+.env
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.venv/
+venv/
+
+IASwingClips/
+
+
+
