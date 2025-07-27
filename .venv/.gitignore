@@ -9,7 +9,7 @@ __pycache__/
 *.sqlite3
 .venv/
 venv/
-
+lib/
 .vscode/
 .DS_Store
 
